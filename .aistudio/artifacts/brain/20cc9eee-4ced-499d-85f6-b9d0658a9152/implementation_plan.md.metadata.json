@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan to restructure duty progression: duties advance individually only when marked done by the Admin; if not done, the student remains on duty next day. Updates 10 Turn to forward cycle alongside Prayer Hall and Milk/Curd, sets Prayer Hall to advance by 1 student per completion with 2 members, and anchors today's starting assignments.",
+  "updatedAt":  "2026-10-29T15:06:12.306328182Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

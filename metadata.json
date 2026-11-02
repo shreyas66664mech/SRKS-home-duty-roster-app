@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sri Ramakrishna Students\u0027 Home - Hostel Duty Roster",
+  "description": "Daily duty allocation and cycle manager for Sri Ramakrishna Students\u0027 Home hostel residents, featuring automated forward/reverse rotations, skip/repeat penalty handling, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

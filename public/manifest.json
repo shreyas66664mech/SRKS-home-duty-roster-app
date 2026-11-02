@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "Sri Ramakrishna Students' Home - Hostel Duty Roster",
+  "short_name": "HostelRoster",
+  "description": "Live daily duty allocation and rotation cycle manager for Sri Ramakrishna Students' Home hostel residents.",
+  "theme_color": "#080d19",
+  "background_color": "#080d19",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "baselineDate": "2026-10-29",
+  "students": [
+    { "id": "1", "name": "Bhargav", "isAway": false },
+    { "id": "2", "name": "Sudarshan", "isAway": false },
+    { "id": "3", "name": "Preetham B", "isAway": false },
+    { "id": "4", "name": "Aneesh", "isAway": false },
+    { "id": "5", "name": "Shreyas", "isAway": false },
+    { "id": "6", "name": "Narasimha", "isAway": false },
+    { "id": "7", "name": "Mr Preetham", "isAway": false },
+    { "id": "8", "name": "Mohan", "isAway": false },
+    { "id": "9", "name": "Pavanaj", "isAway": false },
+    { "id": "10", "name": "Vasanth", "isAway": false },
+    { "id": "11", "name": "Sheersha", "isAway": false },
+    { "id": "12", "name": "Tharun", "isAway": false },
+    { "id": "13", "name": "Sanjay", "isAway": false },
+    { "id": "14", "name": "Hemanth", "isAway": false },
+    { "id": "15", "name": "Abhay", "isAway": false },
+    { "id": "16", "name": "Vikas", "isAway": false },
+    { "id": "17", "name": "Kushal", "isAway": false }
+  ],
+  "penalties": [],
+  "overrides": {},
+  "completedDuties": {},
+  "adminPasswordHash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+  "isPasswordSet": false,
+  "lastUpdated": 1793446800000
+}
